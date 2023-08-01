@@ -1,0 +1,51 @@
+ul{
+    margin: 5px;
+    padding: 0;
+    list-style-type: none;
+}
+li{
+    float: left;
+}
+li a{padding: 20px;
+    color: #d70f0f;
+    font-family: "DejaVu Sans Mono";
+    font-size: 20px;
+    text-decoration: none;
+
+}li a:hover {background-color: mediumseagreen;
+    display: block;
+    overflow-block: auto;
+    text-decoration: aqua;
+ }
+.fruits{
+    border: 2px solid #871b1b;
+    text-align: center;
+    color: white;
+    background-color: red;
+    padding: 20px;
+    margin: 20px;
+}
+.Cars{
+    margin: 30px;
+    padding: 15px;
+    color: mediumseagreen;
+    text-align: center;
+    border: 2px rebeccapurple;
+    background-image: url("Assets/Images/RTYH.png");
+    background-color: white;
+}
+.FRUITS{
+    text-align: center;padding: 20px;
+color: rebeccapurple;
+    margin: 20px;
+    border:20px solid cyan;
+    background-color: saddlebrown;
+
+}
+.school{
+    margin: 30px;
+    border: 2px solid blue;
+    text-align: center;
+}
+#school
+{}
